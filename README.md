@@ -1,6 +1,6 @@
 # Python Programming Problem Solving
 **Languages**: Python  
-**Technologies**: Jupyter Notebooks, Pandas, BeautifulSoup, Unit Testing, OOP
+**Technologies**: Jupyter Notebooks, Pandas, Unit Testing, OOP
 
 ## Overview:
 This repository is a collection of Python-based problem-solving exercises focused on real-world applications and concepts. It's designed for those looking to strengthen their Python programming skills, covering data manipulation, object-oriented programming, and more.
